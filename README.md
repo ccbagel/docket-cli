@@ -1,0 +1,1 @@
+Hello there. This tool is a very simple to use to-do app built for the command line. It's very easy to customize this program if need be. You can find it on Github @  
