@@ -9,8 +9,10 @@ function docket() {
                 console.dir(err);
                 return;
             }
-                console.log(data)
-                const desc = chalk.white.bgMagenta(`Welcome to Docket! A NodeJS CLI todo list. To get started run --help `)
+                console.log(
+                    chalk.magentaBright(data)
+                )
+                const desc = chalk.white(`Welcome to Docket! A NodeJS CLI todo list. To get started run ` + chalk.red(`todos --help `))
                 console.log(desc)
         });
     }

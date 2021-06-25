@@ -35,7 +35,7 @@ program
 .description(
     chalk.magentaBright("Mark commands done")
 )
-.option("-t, --tasks <tasks...>, 'The tasks to mark done. If not specified, all tasks will be marked done.'")
+.option("-t, --tasks <tasks...>, 'after you run `todos mark-done --tasks <tasks> , please specify what number the task was to avoid deleting all tasks. if you're seeing this error, you might also have typed in a command wrong. run todos --help to fix it` '")
 .action(markDone)
 
 program.parse();
