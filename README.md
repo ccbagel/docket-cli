@@ -1,6 +1,6 @@
 Hello there. This tool is a very simple to use to-do app built for the command line. It's very easy to customize this program if need be. I've created this as a learning project and I find it useful since I can stay in the terminal and keep track of small tasks when working with a large codebase. find You can find it on Github @ github.com/ccbagel/docket-cli.
 
-C:\Users\17808\Desktop\ALL DESKTOP!\Hasan Web Projects ALL\Backend_Projects\todos-cli\DOCKET-CLI SC.png
+<img src="docketsc.png" alt="docket-screenshot" />
 
 To install this program, run npm i docket-cli
 
