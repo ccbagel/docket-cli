@@ -1,6 +1,6 @@
 {
   "name": "docket-cli",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "NodeJS todo CLI tool",
   "main": "index.js",
   "bin": {
