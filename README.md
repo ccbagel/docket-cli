@@ -1,6 +1,6 @@
-Hello there. This tool is a very simple to use to-do app built for the command line. It's very easy to customize this program if need be and the whole program consists of 5 JS files. I've created this as a learning project and I find it useful since I can stay in the terminal and keep track of small tasks when working with a large codebase. You can find it on Github @ (github.com/ccbagel/docket-cli.)
+<img src="docketsc.png" alt="docket-screenshot" />
 
-<img src="docket-img.png" alt="docket-screenshot" />
+Hello there. This tool is a very simple to use to-do app built for the command line. It's very easy to customize this program if need be and the whole program consists of 5 JS files. I've created this as a learning project and I find it useful since I can stay in the terminal and keep track of small tasks when working with a large codebase. You can find it on Github @ (github.com/ccbagel/docket-cli.)
 
 To install this program, run `npm i docket-cli`
 
